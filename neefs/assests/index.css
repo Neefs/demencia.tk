@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#main {
+    height: 100vh;
+    background-color: #FFFFFF;
+}
+
+#header {
+    padding: 50px 100px;
+}
+
+#links {
+    float: right;
+}
+
+.link {
+    color: black;
+}
+
+.web-link {
+    padding-left: 50px;
+    font-size: 18px;
+}
+
+#title {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#welcome {
+    position: absolute;
+    padding-left: 100px;
+    font-size: 40px;
+    top: 35%;
+}
+
+#info {
+    font-size: 25px;
+    padding-left: 100px;
+    position: absolute;
+    top: 45%;
+}
+#des1 {
+    font-size: 16px;
+    padding-left: 100px;
+    position: absolute;
+    top: 50%;
+}
+#des2 {
+    font-size: 16px;
+    padding-left: 100px;
+    position: absolute;
+    top: 53%;
+}
+
+#demencia {
+    float: right;
+    padding-right: 100px;
+}
+
+#socials {
+    float: left;
+}
+
+.social {
+/*    padding: 25px 50px; */
+    padding-left: 50px;
+    font-size: 14px;
+}
+
